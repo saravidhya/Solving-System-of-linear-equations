@@ -25,5 +25,6 @@ print(b)
 
 
 ## Output:
+![OUTPUT]
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
